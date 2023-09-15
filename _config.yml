@@ -8,7 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Experienced software developer based in New York City.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://willburghard.github.io/" # the base hostname & protocol for your site
-copyright: 2016 Whatever Company, Inc. All Rights Reserved.
+copyright: 2023 Will Burghard. All Rights Reserved.
 
 # Build settings
 markdown: kramdown
@@ -19,6 +19,7 @@ snapwidget: 247552
 # Contacts
 email: willburghard@gmail.com
 phone: +1-347-924-3146
+linkedin: https://www.linkedin.com/in/will-burghard-182925139/
 
 # Tracking
 googleAnalitycsID: UA-83933844-1
